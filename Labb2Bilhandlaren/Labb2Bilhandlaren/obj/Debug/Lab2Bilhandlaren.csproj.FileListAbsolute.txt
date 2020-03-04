@@ -1,0 +1,6 @@
+C:\Repos\Labb2Bilhandlaren\Labb2Bilhandlaren\bin\Debug\Labb2Bilhandlaren.exe.config
+C:\Repos\Labb2Bilhandlaren\Labb2Bilhandlaren\bin\Debug\Labb2Bilhandlaren.exe
+C:\Repos\Labb2Bilhandlaren\Labb2Bilhandlaren\bin\Debug\Labb2Bilhandlaren.pdb
+C:\Repos\Labb2Bilhandlaren\Labb2Bilhandlaren\obj\Debug\Lab2Bilhandlaren.csprojAssemblyReference.cache
+C:\Repos\Labb2Bilhandlaren\Labb2Bilhandlaren\obj\Debug\Labb2Bilhandlaren.exe
+C:\Repos\Labb2Bilhandlaren\Labb2Bilhandlaren\obj\Debug\Labb2Bilhandlaren.pdb
